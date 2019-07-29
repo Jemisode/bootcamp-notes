@@ -1,2 +1,3 @@
 # bootcamp-notes
-Bootcamp notes
+
+A collection of 
